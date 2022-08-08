@@ -1,0 +1,112 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": false,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "lazyloadPlaceholderEnable": false,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "useIsolateContext": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "showES6CompileOption": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.11.0",
+  "projectname": "NetTools",
+  "isGameTourist": false,
+  "appid": "wx50e63bd7bd1216b0",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "currentL": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "send",
+          "pathName": "pages/sendCommand/sendCommand",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "pages/net/net",
+          "pathName": "pages/net/net",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "bleConnect",
+          "pathName": "pages/bleConnect/bleConnect",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages /home/home",
+          "pathName": "pages/home/home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages /ticket/ticket",
+          "pathName": "pages/ticket/ticket",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages /receipt/receipt",
+          "pathName": "pages/receipt/receipt",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages /label/label",
+          "pathName": "pages/label/label",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
